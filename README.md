@@ -19,3 +19,10 @@ mkdir -p internal/feishu     # 飞书集成层
 ```bash
 mkdir -p cmd/claw internal/{engine,provider,context,tools,memory,feishu}
 ```
+
+
+## 04
+```bash
+go get github.com/openai/openai-go/v3
+go get github.com/anthropics/anthropic-sdk-go
+```
